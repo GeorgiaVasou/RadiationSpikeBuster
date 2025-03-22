@@ -30,6 +30,4 @@ The goal was to remove noise, spikes, and anomalies in satellite radiation measu
 
 
 
-## About This Project
-This project was completed during my **3-month internship**, where I focused on cleaning and analyzing **particle radiation data from satellites in near-Earth geospace**, 
 
