@@ -1,5 +1,5 @@
 
-# SpikeBuster: Preprocessing & Cleaning Satellite Particle Radiation Data
+#Preprocessing & Cleaning Satellite Particle Radiation Data
 
 ## Overview
 
